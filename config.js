@@ -1,3 +1,3 @@
 {
-  "base_url": ""http://panelsanzzprivat.panelantirusuh.biz.id:11784
+  "base_url": "http://panel-legal.jhonaley.net:2721"
 }
