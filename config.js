@@ -1,3 +1,3 @@
 {
-  "base_url": "http://panel-legal.jhonaley.net:2721"
+  "base_url": "http://baldwin.apcb.biz.id:1203"
 }
